@@ -1,7 +1,6 @@
 #endif
 #include <iostream>
-#include "GameManager.h"
-
+#include "GameManager.h
 using namespace std;
 
 void GameManager::run(){
